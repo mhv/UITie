@@ -1,2 +1,2 @@
-github "mhv/Beholder"
-github "mhv/Utils"
+github "mhv/Beholder" “dev”
+github "mhv/Utils" “dev”
